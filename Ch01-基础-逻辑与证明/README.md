@@ -664,7 +664,10 @@
    * (b) (!p && !q) || (p && r)
 
 ### 1.2.42
-   * 
+   * ![](https://github.com/YangXiaoHei/Discrete-Mathematics/blob/master/Ch01-基础-逻辑与证明/img/1-2-42.jpeg)
+
+### 1.2.43
+   * ![](https://github.com/YangXiaoHei/Discrete-Mathematics/blob/master/Ch01-基础-逻辑与证明/img/1-2-43.jpeg)
    
 
 
