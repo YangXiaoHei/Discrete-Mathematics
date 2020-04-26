@@ -612,7 +612,44 @@
 
     * 因此有可能三种情况 : ① 杂役说真话，其他都说假话; ② 园丁说真话，其他都说假话；③ 园丁和杂役说真话，其他都说假话。
      
+     
+### 1.2.36
+   * (a)
+      * 如果说真话的是 Alice ❌
+        * 那么 Carlos 是作案人。
+        * John 就相当于说了真话，与假设矛盾
+        
+     * 如果说真话的是 John ❌
+        * 不是 Carlos 干的
+        * 不是 John 干的
+        * 不是 Diana 干的
+        * Diana 说了真话，这和只有一个人说真话矛盾
+   
+     * 如果说真话的是 Carlos ❌
+        * 作案人是 Diana
+        * John 相当于说了真话，这与假设矛盾
 
+     * 如果说真话的是 Diana ✅
+        * 不是 Carlos 干的
+        * 是 John 作案
+        * 不是 Diana 干的
+        * Carlos 的确说谎了，一切都说得通 
+
+        
+  * (b)
+     * 如果是 Alice 说谎 ❌
+        * 作案人是 Diana
+        * Carlos 说的是真，但是如果 Diana 说的也是真，Carlos 就说的是假，这里自相矛盾
+
+     * 如果 John 说谎 ❌
+       * 作案人是 John
+       * Carlos 和 Diana 还是自相矛盾
+
+    * 如果 Carlos 说谎 ✅
+       * 作案人是 Carlos
+
+    * 如果 Diana 说谎 ❌
+       * Alice 和 Carlos 中必有一人在说谎，这与假设矛盾
    
 
    
